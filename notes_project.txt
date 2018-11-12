@@ -1,0 +1,23 @@
+﻿Level gestalten
+Charakter gestalten (einer)
+-- manuelles Links/rechts movement
+-- jump
+-- manuelles trigger weapon
+-- damage taking
+
+Gegner(grunt) gestalten (einer) 
+-- auto links/recht movement
+
+Scriptable Objects anschauen
+
+2018.2.15f1
+
+scriptableobject:
+
+attackdmg
+health 
+attackfrequency
+attackdmg
+movementspeed
+jumpspeed
+weapon
